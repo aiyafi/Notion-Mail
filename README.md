@@ -2,8 +2,6 @@
 
 This is an **unofficial desktop client** for [Notion's email](https://www.notion.com/product/mail) service, built with [Tauri](https://tauri.app/), [React](https://react.dev/), and [TypeScript](https://www.typescriptlang.org/).
 
-by [K9Fox](https://yafff.tech/)
-
 **Note:** This project is for personal use only and is not intended for public distribution.
 
 ## Features
@@ -32,3 +30,6 @@ cargo tauri dev
 ### Disclaimer
 This is an unofficial project and is not affiliated with Notion.
 For personal use only.
+
+### Author
+[K9Fox](https://yafff.tech/)
